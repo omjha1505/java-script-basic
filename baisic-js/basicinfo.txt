@@ -1,0 +1,18 @@
+JavaScript vs Java
+  These two are completly independent Technology. 
+  Java : Its completly OO,strongly typed
+  javaScript : Flixible, weakly typed
+
+
+Client Side JS: E.g Browser. The origin of JavaScript , different browser vendors provide their own 
+javaScript execution engines(E.g For Chrome its V8) , Allows interaction with the web page and Browser API
+
+
+Server-Side (NodeJS) : E.g : NodeJS Concept was why not useJS outside of the browser ? It Allows for code and
+knowledge re-usage. NodeJS is extracted V8 Engine to tun the JS anywhere
+have special non-browser API(e.g : to work with the OS , File Systems)
+
+Brief History of JavaScript : 
+1995  - Netscape introduces LiveScript later renamed as JavaScript
+1996  - Microsoft releases its own version for IE
+2006 - 2011 : huge progress in JavaScript
