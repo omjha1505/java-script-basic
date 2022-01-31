@@ -1,3 +1,6 @@
-let currentResult = 0; // best practice : keep varaible name in camelCase
-currentResult = currentResult + 10;
-outputResult(200, "sum");
+// Declare variable and Constants before using it
+//Methods can be placed anywhere
+function add(numOne, numTwo) {
+  const result = numOne + numTwo;
+  return result;
+}
