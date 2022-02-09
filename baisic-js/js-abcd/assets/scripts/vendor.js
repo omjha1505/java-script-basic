@@ -8,7 +8,6 @@ const currentResultOutput = document.getElementById("current-result");
 const currentCalculationOutput = document.getElementById("current-calculation");
 
 function outputResult(result, text) {
-  alert("Inside method call");
   currentResultOutput.textContent = result;
   currentCalculationOutput.textContent = text;
 }
